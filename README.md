@@ -1,1 +1,2 @@
-# spatial_transcriptomics_exploring
+# Spatial transcriptomics workflow
+Python package squidpy is used
