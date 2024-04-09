@@ -1,2 +1,2 @@
 # Spatial transcriptomics workflow
-Python package squidpy is used
+A jupyter notebook workflow on Xenium pstial transcriptomics dataset using Python package squidpy for a quick analysis
